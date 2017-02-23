@@ -1,0 +1,24 @@
+html { 
+  background: url(../img/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+    background: none;
+    color: white;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+.container {
+	text-align: center;
+	margin-top: 100px;
+	width: 450px;
+}
+input {
+	margin: 20px 0;
+}
+#weather {
+	margin-top: 15px;
+}
